@@ -1,4 +1,13 @@
 {
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "Blue-Infinity-Tech @ Authentication-Test-Task",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^16.4.5",
