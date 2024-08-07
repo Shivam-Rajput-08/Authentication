@@ -2,7 +2,6 @@
 
 ## Overview
 
-Blue-Infinity-Tech @ Authentication-Test-Task
 This project is a basic authentication API built with Node.js using the MVC pattern. It includes functionality for user registration, login, and logout, with password hashing and JWT (JSON Web Tokens) for secure authentication.
 
 ## Prerequisites
